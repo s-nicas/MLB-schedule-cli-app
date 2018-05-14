@@ -1,0 +1,9 @@
+
+Class FanCLI
+
+puts "Welcome To MLB_Schedule"
+puts "What team schedule do you need?"
+puts "Would you like to see another teams schedule? If so - what team?
+Otherwise type exit to exit the program"
+
+end

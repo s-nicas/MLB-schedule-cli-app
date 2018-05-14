@@ -1,5 +1,8 @@
 require "MLB_ScheduleCLI/version"
+require 'open-uri'
+require 'pry'
+require 'nokogiri'
 
-module MLBScheduleCLI
-  # Your code goes here...
+ module MLBSchedule
+
 end
